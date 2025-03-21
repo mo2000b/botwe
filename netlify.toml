@@ -1,6 +1,6 @@
 [build]
-  base = "project3"
-  publish = "dist"
+  base = "."
+  publish = "project3/dist"
   command = "npm run build"
 
 [[redirects]]
