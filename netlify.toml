@@ -1,5 +1,5 @@
 [build]
-  base = "project 3"
+  base = "project3"
   publish = "dist"
   command = "npm run build"
 

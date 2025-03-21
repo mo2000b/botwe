@@ -2,5 +2,5 @@ node_modules/
 .env
 .env.local
 dist/
-project 3/dist/
+project3/dist/
 .DS_Store
