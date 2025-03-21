@@ -1,0 +1,6 @@
+{
+  "name": "botwe",
+  "scripts": {
+    "build": "cd 'project 3' && npm install && npm run build"
+  }
+}
